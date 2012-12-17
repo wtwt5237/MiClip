@@ -25,5 +25,5 @@ Version: 1.0
 Date: 2012-11-15  
 Author: Tao Wang  
 Maintainer: Tao Wang <tao.wang@utsouthwestern.edu>  
-Depends: R (>= 2.15.2), moments, VGAM  
+Depends: R (>= 2.15.0), moments, VGAM  
 License: GPL-2  
